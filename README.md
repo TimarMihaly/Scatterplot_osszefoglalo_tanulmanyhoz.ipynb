@@ -1,0 +1,1 @@
+Az alábbiakban található a scatterplot Python-kódja az ÖFT-hez. Módosítsátok nyugodtan a paramétereket, ha szükséges, hogy grafikailag még jobb hatást keltsen. A magyar verzióhoz majd elég lesz csak a label-eket átírni. 
